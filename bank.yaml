@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1">
+<title>간편대부전산 BANKEY</title>
+<link rel="stylesheet" href="https://www.bankey.co.kr/theme/basic/css/default.css">
+<link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet" />
+<link type="text/css" href="https://www.bankey.co.kr/plugin/jquery-ui/style.css">
+<link rel="stylesheet" href="https://www.bankey.co.kr/theme/basic/css/cssmenu_styles.css">
+
+
+<!--[if lte IE 8]>
+<script src="https://www.bankey.co.kr/js/html5.js"></script>
+<![endif]-->
